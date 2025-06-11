@@ -18,3 +18,19 @@ This project shows how Encapsulation works in Java using a real-world-like `Bank
 1. Compile both files:
 ```bash
 javac BankAccount.java Main.java
+2. Run the program:
+bash
+Copy
+Edit
+java Main
+
+3.Output Example
+yaml
+Copy
+Edit
+Deposited: ₹1000.0
+Withdrawn: ₹300.0
+Invalid or insufficient funds!
+Account Holder: Syed Sartaj Ali
+Final Balance: ₹700.0
+
