@@ -11,7 +11,7 @@ This project shows how Encapsulation works in Java using a real-world-like `Bank
 - Deposit and Withdraw with validation
 - Demonstrates data hiding and controlled access
 
-## 📌 Author: Rahul
+## 📌 Author: Syed Sartaj Ali
 
 ## 💡 How to Run
 
